@@ -1,0 +1,35 @@
+Score
+Next Colors
+New Game
+Load Game
+Save Game
+Highscores
+Game Options
+Hide Game
+Undo
+About the Game
+Help
+Minimize
+Close
+Confirmation
+Do you want to quit actual game?
+Delete Highscores
+Do you want to delete highscores?
+Options
+Play sounds
+Show next colors
+Number of colors
+Language
+About
+Program written in Delphi 7 Personal.
+Program is distributed as Freeware.
+Autor nie bierze odpowiedzialnoœci za ewentualne szkody powsta³e w skutek jego dzia³ania.
+Close game KulkiEx?
+New Highscore!
+Enter your name:
+Game over. Do you want to play again?
+Error
+This is not KulkiEx savegame file!
+Help file not found!
+Save as:
+File already exist. Do you want to replace it?

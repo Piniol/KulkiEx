@@ -1,0 +1,35 @@
+Wynik
+Nastêpne Kolory
+Nowa Gra
+Wczytaj Grê
+Zapisz Grê
+Tabela Wyników
+Ustawienia Gry
+Ukryj Grê
+Cofnij
+Informacje o Grze
+Pomoc
+Minimalizuj
+Zamknij
+Potwierdzenie
+Czy chcesz przerwaæ aktualn¹ grê
+Skasuj Wyniki
+Czy chcesz skasowaæ wyniki?
+Ustawienia
+Odtwarzaj dŸwiêki
+Pokazuj nastêpne kolory
+Iloœæ kolorów
+Jêzyk
+Informacje
+Program napisany w Delphi 7 Personal.
+Program udostêpniony jako Freeware.
+Autor nie bierze odpowiedzialnoœci za ewentualne szkody powsta³e w skutek jego dzia³ania.
+Zamkn¹æ grê KulkiEx?
+Nowy rekord!
+Podaj swoje imiê:
+Koniec gry. Chcesz zagraæ jeszcze raz?
+B³¹d
+To nie jest plik gry KulkiEx!
+Nie znaleziono pliku pomocy!
+Zapisz jako:
+Plik istnieje. Chcesz go zast¹piæ?
